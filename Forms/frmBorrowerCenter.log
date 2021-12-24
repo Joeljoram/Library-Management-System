@@ -1,0 +1,4 @@
+Line 24: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 80: Class MSComctlLib.ListView of control lvBookBorrow was not a loaded control class.
+Line 133: Class MSComCtl2.DTPicker of control DTBorrowed was not a loaded control class.
+Line 146: Class MSComCtl2.DTPicker of control DTExpired was not a loaded control class.

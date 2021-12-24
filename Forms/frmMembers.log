@@ -1,0 +1,4 @@
+Line 33: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 74: Class MSComctlLib.ListView of control lvMember was not a loaded control class.
+Line 291: Class MSComCtl2.DTPicker of control dtDc was not a loaded control class.
+Line 304: Class MSComCtl2.DTPicker of control dtDob was not a loaded control class.

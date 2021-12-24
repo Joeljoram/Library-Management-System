@@ -1,0 +1,18 @@
+Line 46: Class prjLMS.jcbutton of control btnCancel was not a loaded control class.
+Line 77: Class prjLMS.ctrlLiner of control ctrlLiner1 was not a loaded control class.
+Line 86: Class prjLMS.jcbutton of control btnLog was not a loaded control class.
+Line 108: Class prjLMS.ctrlLiner of control ctrlLiner2 was not a loaded control class.
+Line 52: The property name _ExtentX in btnCancel is invalid.
+Line 53: The property name _ExtentY in btnCancel is invalid.
+Line 54: The property name ButtonStyle in btnCancel is invalid.
+Line 65: The property name Caption in btnCancel is invalid.
+Line 66: The property name UseMaskCOlor in btnCancel is invalid.
+Line 83: The property name _ExtentX in ctrlLiner1 is invalid.
+Line 84: The property name _ExtentY in ctrlLiner1 is invalid.
+Line 92: The property name _ExtentX in btnLog is invalid.
+Line 93: The property name _ExtentY in btnLog is invalid.
+Line 94: The property name ButtonStyle in btnLog is invalid.
+Line 105: The property name Caption in btnLog is invalid.
+Line 106: The property name UseMaskCOlor in btnLog is invalid.
+Line 114: The property name _ExtentX in ctrlLiner2 is invalid.
+Line 115: The property name _ExtentY in ctrlLiner2 is invalid.
